@@ -1,5 +1,5 @@
-<h1 align="center">Hi, This is Md Jakaria Nur</h1>
-<h3 align="center">Software Design and Development Engineer.</h3>
+<h1 align="center">Hi, This is Jakaria Nur</h1>
+<h3 align="center">Entrepreneur & Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdjakarianur&label=Profile%20views&color=0e75b6&style=flat" alt="mdjakarianur" /> </p>
 
@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Java, JavaScript, PHP, Python, React.js, Exprees.js, Node.js, and MongDB**
 
-- 👨‍💻 All of my projects are available at [Md Jakaria Nur](https://www.nur.jakariaa.com) , [Md Jubayer Nur](https://www.jubayer.jakariaa.com) , [JakariaA](https://www.jakariaa.com) , [JakariaN](www.jakarian.com) , [JakaFind](https://www.jakafind.jakariaa.com) , [JakaFact](https://www.jakafact.jakariaa.com)
+- 👨‍💻 All of my projects are available at [Jakaria Nur](https://www.nur.jakariaa.com) , [Jakaria Rifat](https://www.jubayer.jakariaa.com) , [JakariaA](https://www.jakariaa.com) , [JakariaN](www.jakarian.com) , [JakaFind](https://www.jakafind.jakariaa.com) , [JakaFact](https://www.jakafact.jakariaa.com)
 
 - 📝 I regularly write articles on Programming at [JakaFind](https://www.jakafind.jakariaa.com) , [JakaFact](https://www.jakafact.jakariaa.com)
 
-- 📫 How to reach me **info.nur@jakariaa.com** **info.mdjakarianur@gmail.com** 
+- 📫 How to reach me **info.nur@jakariaa.com** **info.nur@jakariaz.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.youtube.com/c/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdjakarianur" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@jakarianurid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mdjakarianur" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdjakarianur" height="30" width="40" /></a>
   <a href="https://fb.com/mdjakarianurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjakarianurt" height="30" width="40" /></a>
 <a href="https://twitter.com/mdjakarianur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdjakarianur" height="30" width="40" /></a>
